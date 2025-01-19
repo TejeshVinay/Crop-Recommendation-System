@@ -48,25 +48,25 @@ joblib            1.3.2
 <h2>How-to-use</h2>
 <p>You can clone the repository by executing this command in the gitbash environment in the required directory </p>
 
-  ```terminal
+  terminal
   git clone https://github.com/AAC-Open-Source-Poul/Contactless-Fingerprint-Identification.git
-  ```
+  
 <p> Make sure the paths are configured properly <br>
   Open the terminal in the required directory and execute the following command
 </p>
 
-  ```terminal
+  terminal
    flask run
-  ```
+  
   
 <p>Wait for the development server to deploy and open  <a href="http://127.0.0.1:5000">Local Host</a></p>
 <h2 id="preview">Preview</h2>
 <div style="display: flex; align-items: center;">
   <p><b>Home Page:</b> Users input soil type, temperature, and other parameters.</p>
-  <img src="https://via.placeholder.com/800x400?text=Home+Page+Preview" alt="Home Page Preview">
+  <img src="C:\Users\pawan\OneDrive\Pictures\Screenshots 1\Screenshot 2025-01-19 122730.png" alt="Home Page Preview">
   
   <p><b>Results Page:</b> Displays recommended crops with detailed insights.</p>
-  <img src="https://via.placeholder.com/800x400?text=Results+Page+Preview" alt="Results Page Preview">
+  <img src="C:\Users\pawan\OneDrive\Pictures\Screenshots 1\Screenshot 2025-01-19 122931.png" alt="Results Page Preview">
 </div>
 <h2 id="contribution">Contribution</h2>
 <p>We welcome contributions to improve the project! To contribute, follow these steps:</p>
@@ -79,7 +79,4 @@ To contribute follow these steps:
 
 3.Write Documentation:  Explain your changes clearly, including identified problems, proposed solutions, and test cases.
 
-4.Submit a Pull Request:  Follow standard Git etiquette to submit your contributions.
-
-
-
+4.Submit a Pull Request:  Follow standard Git etiquette to submit your contributions.
