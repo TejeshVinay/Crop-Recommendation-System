@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>
+        Crop Recommendation System
+    </title>
+    <style>
+        .header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            border-radius: 10px 10px 10px 10px;
+            text-align: left;
+        }
+
+        .container {
+            position: relative;
+            z-index: 1;
+            /* Bring the container above the video */
+            background-color: rgba(249, 246, 243, 0.8);
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+            margin: 50px auto;
+            width: 450px;
+        }
+
+        .result {
+            color: #333;
+            font-family: cursive;
+            text-align: center;
+            text-transform: uppercase;
+        }
+
+
+        body,
+        html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            overflow: hidden;
+            font-family: Arial, sans-serif;
+            background-image: url('https://images.pexels.com/photos/96715/pexels-photo-96715.jpeg?cs=srgb&dl=pexels-alejandro-barron-21404-96715.jpg&fm=jpg');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+        }
+    </style>
+</head>
+
+<body>
+    <div class=header>
+        <h1>Recommended Crop :</h1>
+    </div>
+    <div id="crop" class=container>
+        <h2 id="result" class="result">{{data.result}}</h2>
+        <!-- <img src = "rice.jpg"> -->
+    </div>
+</body>
+
+</html>
