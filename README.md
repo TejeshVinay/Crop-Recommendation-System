@@ -63,7 +63,7 @@ joblib            1.3.2
 <h2 id="preview">Preview</h2>
 <div style="display: flex; align-items: center;">
   <p><b>Home Page:</b> Users input soil type, temperature, and other parameters.</p>
-  <img src="https://www.google.com/imgres?q=imgs&imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D471633575021445&imgrefurl=https%3A%2F%2Fwww.facebook.com%2FIMGSPoweringDataInsights%2F&docid=Yo-ixe9KSp5knM&tbnid=Iw2OrKEAbU5g7M&vet=12ahUKEwi81fv7m4GLAxWYzDgGHVCKNdkQM3oECBwQAA..i&w=595&h=220&hcb=2&ved=2ahUKEwi81fv7m4GLAxWYzDgGHVCKNdkQM3oECBwQAA" alt="Home Page Preview">
+  <img src="C:\Users\pawan\OneDrive\Pictures\Screenshots 1\Screenshot 2025-01-19 122730.png" alt="Home Page Preview">
   
   <p><b>Results Page:</b> Displays recommended crops with detailed insights.</p>
   <img src="C:\Users\pawan\OneDrive\Pictures\Screenshots 1\Screenshot 2025-01-19 122931.png" alt="Results Page Preview">
