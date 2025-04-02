@@ -8,7 +8,6 @@ def loading(n,p,k,temp,hum,ph,rf):
     'mungbean','blackgram','lentil','pomegranate','banana','mango','grapes',
     'watermelon','muskmelon','apple','orange','papaya','coconut','cotton',
     'jute','coffee']
-    print("hello")
 
     res.append(float(n))
     res.append(float(p))
